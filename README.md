@@ -23,6 +23,11 @@ curl is a handy *nix command-line utility that allows you to transfer data over 
 ```
 curl https://raw.githubusercontent.com/ftexchange/ftx/master/rest/client.py -o client.py
 ```
+## Usage:
+Comment and uncomment the print() sections to see them output data to terminal / command prompt.
+
+### Still Needs:
+To be able to write to file or Excel spreadsheet.
 
 ## Resources:
   1. [FXT Rest API Tutorial](https://analyzingalpha.com/blog/ftx-rest-api-python#get-all-market-data)
